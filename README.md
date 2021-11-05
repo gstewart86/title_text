@@ -17,6 +17,8 @@ Center and outline some text with a given character
 #                                                 #
 #                   test message                  #
 #                                                 #
+❯ ./outline.py "test message" --header --footer --filler -
+############################
 #-------test message-------#
 ############################
 ```
